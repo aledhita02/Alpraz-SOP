@@ -18,7 +18,7 @@ public class ModelManajemen {
     
     public ModelManajemen(String kdPesanan, String customer, String jenis, String namaProduk, int stok, int harga){
         this.kdPesanan = kdPesanan;
-        this.customer = customer;
+        this.customer = customer;   
         this.jenis = jenis;
         this.namaProduk = namaProduk;
         this.stok = stok;
